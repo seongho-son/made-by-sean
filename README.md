@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
-<h5>I'm Shon, frontend developer from Korea</h5>
-<h3>My Tech Stack</h3>
+<h5><img alt="I'm" src="https://img.shields.io/badge/-I'm-0D83CD?style=flat-square" /> <img alt="Shon," src="https://img.shields.io/badge/-Shon,-F68315?style=flat-square" /> <img alt="frontend" src="https://img.shields.io/badge/-frontend-4B1E78?style=flat-square" /> <img alt="developer" src="https://img.shields.io/badge/-developer-19A974?style=flat-square" /> <img alt="from" src="https://img.shields.io/badge/-from-0E1128?style=flat-square" />  <img alt="Korea" src="https://img.shields.io/badge/-Korea-D00000?style=flat-square" />
+</h5>
+<h3>Tech Stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -20,9 +21,9 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
 
-### Check [here](https://www.notion.so/SHON-85ae96c1bfd54adf920e45d44e71560c) out My Notion 
+### Check Out
+**[<img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />](https://www.notion.so/SHON-85ae96c1bfd54adf920e45d44e71560c)  [<img alt="Velog" src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white" />](https://devshon.github.io/)**
 
-### Check [here](https://devshon.github.io/) out My Velog 
 
 
 
