@@ -19,9 +19,10 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
-<h3>Checkout My Notion</h3>
 
-[here](https://www.notion.so/SHON-85ae96c1bfd54adf920e45d44e71560c)
+### Check [here](https://www.notion.so/SHON-85ae96c1bfd54adf920e45d44e71560c) out My Notion 
+
+### Check [here](https://devshon.github.io/) out My Velog 
 
 
 
