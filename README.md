@@ -22,7 +22,7 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
 
-### Check here Out
+### Check here out
 **[<img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />](https://www.notion.so/SHON-85ae96c1bfd54adf920e45d44e71560c)  [<img alt="Velog" src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white" />](https://devshon.github.io/)**
 
 
