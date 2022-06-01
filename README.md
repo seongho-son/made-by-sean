@@ -2,6 +2,10 @@
 
 <h5><img alt="I'm" src="https://img.shields.io/badge/-I'm-0D83CD?style=flat-square" /> <img alt="Shon," src="https://img.shields.io/badge/-Shon,-F68315?style=flat-square" /> <img alt="frontend" src="https://img.shields.io/badge/-frontend-4B1E78?style=flat-square" /> <img alt="developer" src="https://img.shields.io/badge/-developer-19A974?style=flat-square" /> <img alt="from" src="https://img.shields.io/badge/-from-0E1128?style=flat-square" />  <img alt="Korea" src="https://img.shields.io/badge/-Korea-D00000?style=flat-square" />
 </h5>
+
+
+
+
 <h3>Things I use</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -22,10 +26,34 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
 
+
+
+### Work Experience
+
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Date</th>
+      <th>Contents</th>
+      <th>Tech</th>
+      <th>Organization</th>
+    </tr>
+  </thead>
+	<tbody>
+     <tr>
+       <td>기업 협업</td>
+       <td>22.5.9 - 22.6.2</td>
+       <td>이전 장고 템플릿으로 만들어진 서비스를 NextJS를 사용하여 새로운 UI로 전환</td>
+       <td>NextJS, TypeScript, Recoil, Styled-jsx</td>
+       <td>Pleasy</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ### Check here out
+
 **[<img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />](https://www.notion.so/SHON-85ae96c1bfd54adf920e45d44e71560c)  [<img alt="Velog" src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white" />](https://devshon.github.io/)**
-
-
-
-
 
