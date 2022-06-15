@@ -42,11 +42,11 @@
   </thead>
 	<tbody>
      <tr>
-       <td>기업 협업</td>
-       <td>22.5.9 - 22.6.2</td>
-       <td>이전 장고 템플릿으로 만들어진 서비스를 NextJS를 사용하여 새로운 UI로 전환</td>
-       <td>NextJS, TypeScript, Recoil, Styled-jsx</td>
-       <td>Pleasy</td>
+       <td>근무중</td>
+       <td>22.6.15</td>
+       <td>초기 스타트업과 개발자를 이어주는 채용플랫폼</td>
+       <td>React, TypeScript, Styled-components</td>
+       <td>Groupby</td>
     </tr>
   </tbody>
 </table>
