@@ -44,7 +44,7 @@
        <td>협업중</td>
        <td>22.6.15</td>
        <td>초기 스타트업과 개발자를 이어주는 채용플랫폼</td>
-       <td>React, TypeScript, Styled-components</td>
+       <td>NextJS, TypeScript, Styled-components</td>
        <td>GroupBy<br/>https://groupby.oopy.io</td>
     </tr>
   </tbody>
