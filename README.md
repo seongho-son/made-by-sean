@@ -43,7 +43,7 @@
        <td>WIP</td>
        <td>22.6.15-</td>
        <td>초기 스타트업과 개발자를 이어주는 채용 플랫폼, 9월초 오픈합니다!</td>
-       <td>TypeScript | NextJS | SWR | styled-components</td>
+       <td>TypeScript, NextJS</td>
        <td>https://groupby.oopy.io</td>
     </tr>
   </tbody>
