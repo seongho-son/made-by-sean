@@ -21,7 +21,6 @@
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="SWR" src="https://img.shields.io/badge/-SWR-141414?style=flat-square&logo=swr&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Scss" src="https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=scss&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
 
